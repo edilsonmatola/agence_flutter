@@ -19,3 +19,7 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
+ implementation 'com.facebook.android:facebook-login:latest.release'
+.flutter-plugins
+.flutter-plugins-dependencies
+generated_plugin_registrant.dart
