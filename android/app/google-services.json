@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "275462518841",
+    "project_id": "agence-d40fa",
+    "storage_bucket": "agence-d40fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275462518841:android:019c43152749a79ae135e8",
+        "android_client_info": {
+          "package_name": "br.com.agence.agence_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275462518841-ph69h6oqabjlu9lvqrgkoj05aad2m212.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBkVr5t8-QoaCQ7r57HGUeBsdHWe8OiKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275462518841-ph69h6oqabjlu9lvqrgkoj05aad2m212.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
